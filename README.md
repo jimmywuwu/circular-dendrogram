@@ -1,2 +1,2 @@
-# cirular-dendrogram
+# circular-dendrogram
 visualize the result of Louvain Algorithm
